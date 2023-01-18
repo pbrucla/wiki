@@ -1,0 +1,30 @@
+# Reverse Engineering
+
+
+## Resources
+
+### Microcorruption
+https://microcorruption.com/
+
+### Nightmare
+https://guyinatuxedo.github.io/index.html
+
+### crackmes
+https://crackmes.one/
+
+## Tools
+
+### Binary Ninja
+https://binary.ninja/
+
+### Binary Ninja Cloud
+https://cloud.binary.ninja/
+
+### Ghidra
+https://ghidra-sre.org/
+
+### gef
+https://github.com/hugsy/gef
+
+### Linux syscall table
+https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md

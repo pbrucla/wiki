@@ -12,6 +12,12 @@ https://cryptopals.com/
 ### Standard Curve Database
 https://neuromancer.sk/std/
 
+### Ben Lynn's Website
+https://crypto.stanford.edu/pbc/notes/
+
+### Dan Boneh and Victor Shoup's Textbook
+https://toc.cryptobook.us/
+
 ## Tools
 
 ### Boxentriq

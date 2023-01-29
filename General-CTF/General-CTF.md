@@ -37,6 +37,9 @@ https://github.com/b01lers/welcome-to-ctf
 ### CTF 101
 https://ctf101.org/
 
+### Over The Wire
+https://overthewire.org/wargames/
+
 ## Tools
 
 ### CyberChef

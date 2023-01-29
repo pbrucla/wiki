@@ -6,5 +6,7 @@
 ### OSINT Dojo
 https://www.osintdojo.com/
 
+### Searchlight - IMINT
+https://tryhackme.com/room/searchlightosint
 
 ## Tools

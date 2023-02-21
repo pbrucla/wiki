@@ -40,6 +40,9 @@ https://ctf101.org/
 ### Over The Wire
 https://overthewire.org/wargames/
 
+### Imaginary CTF
+https://imaginaryctf.org/
+
 ## Tools
 
 ### CyberChef

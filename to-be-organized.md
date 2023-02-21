@@ -13,3 +13,5 @@ https://tryhackme.com/
 https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false
 
 https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student
+
+https://pwnagotchi.ai/

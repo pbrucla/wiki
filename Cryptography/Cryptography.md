@@ -18,6 +18,9 @@ https://crypto.stanford.edu/pbc/notes/
 ### Dan Boneh and Victor Shoup's Textbook
 https://toc.cryptobook.us/
 
+### A Gentle Tutorial for Lattice-Based Cryptoanalysis
+https://eprint.iacr.org/2023/032.pdf
+
 ## Tools
 
 ### Boxentriq

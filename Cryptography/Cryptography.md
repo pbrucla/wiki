@@ -21,6 +21,9 @@ https://toc.cryptobook.us/
 ### A Gentle Tutorial for Lattice-Based Cryptoanalysis
 https://eprint.iacr.org/2023/032.pdf
 
+### Cryptology ePrint Archive
+https://eprint.iacr.org/
+
 ## Tools
 
 ### Boxentriq

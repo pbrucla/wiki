@@ -1,4 +1,4 @@
-# PBR-Onboarding
+# Welcome to PBR!
 Read this if you're new to PBR or CTF competitions!
 
 ## What are CTFs

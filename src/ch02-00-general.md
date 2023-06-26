@@ -1,6 +1,6 @@
 # General CTF resources and tools
 
-This folder contains resources that train you for CTFs in general. These include past CTFs, general tools that you might use during a CTF, and other things too broad to fit into one category.
+This chapters contains resources that train you for CTFs in general. These include past CTFs, general tools that you might use during a CTF, and other things too broad to fit into one category.
 
 ## Resources
 

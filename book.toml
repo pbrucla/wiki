@@ -1,6 +1,8 @@
 [book]
-authors = ["Benson Liu"]
+authors = ["Psi Beta Rho | UCLA"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Wiki"
+[output.html]
+site-url = "/wiki/"

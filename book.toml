@@ -4,5 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Psi Beta Rho Wiki"
+
 [output.html]
+mathjax-support = true
 site-url = "/wiki/"
+git-repository-url = "https://github.com/pbrucla/wiki"
+edit-url-template = "https://github.com/pbrucla/wiki/edit/main/{path}"

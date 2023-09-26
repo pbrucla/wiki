@@ -1,8 +1,8 @@
 # General CTF resources and tools
 
-This chapters contains resources that train you for CTFs in general. These include past CTFs, general tools that you might use during a CTF, and other things too broad to fit into one category.
+This chapter contains resources that train you for CTFs in general. These include past CTFs, general tools that you might use during a CTF, and other things too broad to fit into one category. For category-specific tools and resources, make sure to check out the appropriate chapters!
 
-## Resources
+## General resources
 
 ### picoCTF
 [https://picoctf.org/](https://picoctf.org/)
@@ -45,15 +45,15 @@ Possibly the most beginner friendly cybersecurity resource on this list. Some of
 
 ## Tools
 
-### CyberChef
-[https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
-
-CyberChef describes itself as "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis". Very useful.
-
 ### pwntools
 [https://docs.pwntools.com/en/stable/](https://docs.pwntools.com/en/stable/)
 
 A Python library that helps with writing CTF scripts. You'll be using this a lot.
+
+### CyberChef
+[https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+
+CyberChef describes itself as "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis". Very useful.
 
 ### WSL
 [https://ubuntu.com/wsl](https://ubuntu.com/wsl)

@@ -9,6 +9,9 @@
 ### Cryptopals
 [https://cryptopals.com/](https://cryptopals.com/)
 
+## RSA Attacks
+[https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
+
 ### Standard Curve Database
 [https://neuromancer.sk/std/](https://neuromancer.sk/std/)
 
@@ -32,11 +35,14 @@
 ### dCode
 [https://www.dcode.fr/en](https://www.dcode.fr/en)
 
-### Z3 Python Tutorial
-[https://ericpony.github.io/z3py-tutorial/guide-examples.htm](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
-
 ### Sagemath
 [https://www.sagemath.org/](https://www.sagemath.org/)
+
+### Alpertron Integer Factorization Calculator
+[https://www.alpertron.com.ar/ECM.HTM](https://www.alpertron.com.ar/ECM.HTM)
+
+### Z3 Python Tutorial
+[https://ericpony.github.io/z3py-tutorial/guide-examples.htm](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
 ### Ciphey
 [https://github.com/Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)

@@ -18,6 +18,9 @@
 ### Reverse Engineering For Beginners
 [https://www.begin.re/](https://www.begin.re/)
 
+### Linux syscall table
+[https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
+
 ## Tools
 
 ### Binary Ninja
@@ -31,9 +34,6 @@
 
 ### gef
 [https://github.com/hugsy/gef](https://github.com/hugsy/gef)
-
-### Linux syscall table
-[https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
 
 ## Articles
 [https://blog.akenofu.me/security-arch/](https://blog.akenofu.me/security-arch/)

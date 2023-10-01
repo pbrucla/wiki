@@ -1,6 +1,6 @@
 # Summary
 
-[Psi Beta Rho Wiki](title-page.md)
+[Welcome](title-page.md)
 [Introduction](ch00-00-introduction.md)
 - [Psi Beta Rho](ch01-00-psi-beta-rho.md)
 - [General](ch02-00-general.md)

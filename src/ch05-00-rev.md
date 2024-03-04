@@ -3,6 +3,8 @@
 
 ## Resources
 
+**Introduction to Reverse Engineering:** [https://0xinfection.github.io/reversing/](https://0xinfection.github.io/reversing/)
+
 ### Microcorruption
 [https://microcorruption.com/](https://microcorruption.com/)
 

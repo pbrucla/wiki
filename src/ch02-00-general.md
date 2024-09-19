@@ -59,7 +59,7 @@ pip install pwntools
 ```
 
 Source:
-https://www.reddit.com/r/ExploitDev/comments/13ixkoy/unable_to_install_pwntools_on_mac_m1/
+[https://www.reddit.com/r/ExploitDev/comments/13ixkoy/unable_to_install_pwntools_on_mac_m1/](https://www.reddit.com/r/ExploitDev/comments/13ixkoy/unable_to_install_pwntools_on_mac_m1/)
 
 ### CyberChef
 [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)

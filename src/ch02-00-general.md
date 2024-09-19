@@ -50,6 +50,17 @@ Possibly the most beginner friendly cybersecurity resource on this list. Some of
 
 A Python library that helps with writing CTF scripts. You'll be using this a lot.
 
+**Installing Pwntools on M1 Macs.**
+A common installation problem with pwntools on M1 Macs is because `capstone`, a dependency of pwntools, fails to build. The fix for this is the following.
+
+```shell
+brew install cmake
+pip install pwntools
+```
+
+Source:
+[https://www.reddit.com/r/ExploitDev/comments/13ixkoy/unable_to_install_pwntools_on_mac_m1/](https://www.reddit.com/r/ExploitDev/comments/13ixkoy/unable_to_install_pwntools_on_mac_m1/)
+
 ### CyberChef
 [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 

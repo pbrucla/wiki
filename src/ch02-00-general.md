@@ -53,7 +53,7 @@ A Python library that helps with writing CTF scripts. You'll be using this a lot
 **Installing Pwntools on M1 Macs.**
 A common installation problem with pwntools on M1 Macs is because `capstone`, a dependency of pwntools, fails to build. The fix for this is the following.
 
-```
+```shell
 brew install cmake
 pip install pwntools
 ```

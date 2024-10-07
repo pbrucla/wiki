@@ -12,5 +12,7 @@
     - [Forensics](ch07-01-forensics.md)
     - [OSINT](ch07-02-osint.md)
     - [Blockchain](ch07-03-blockchain.md)
+- [Web](fall-24/web/week-2.md)
+    - [2: Intro to Web & Client-Side Security](fall-24/web/week-2.md)
 
 [Appendix](appendix-00-resources.md)

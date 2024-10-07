@@ -1,3 +1,4 @@
+# General
 # General CTF resources and tools
 
 This chapter contains resources that train you for CTFs in general. These include past CTFs, general tools that you might use during a CTF, and other things too broad to fit into one category. For category-specific tools and resources, make sure to check out the appropriate chapters!

@@ -7,12 +7,12 @@ The internet is one of the most powerful tools that we used today and is deeply 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFHXEvzXqLQJ-uJdJje9UZ0-THwvSkw1RU7xAnPmRjJyUCTi65G9cp49v5F5NXAQOiAZXVP3D2hNRG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
-The following challenges are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.
-- Challenge 1
-- Challenge 2
-- Challenge 3
-- Challenge 4
-- Challenge 5
+The following challenges in increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.
+- Challenge 1 - `web/control-you` (from angstromctf 2019)
+- Challenge 2 - `web/sourcery`
+- Challenge 3 - `web/cooking`
+- Challenge 4 - `web/acm-netsec`
+- Challenge 5 - `web/terms-and-conditions` (from lactf 2024)
 
 ## Resources
 The follow resources are great to learn more about the topics covered in the slides.

@@ -7,12 +7,12 @@ Cryptography is the process of hiding information or communicating securely in a
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIjnYQvGXvOCIJcABaLmEXMellar4SxyVLlOqJmY5CH9HamAS2kuDTJgaopo3w6i-cc3Rz7EUB7Duk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
-The following challenges are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.
-- Challenge 1
-- Challenge 2
-- Challenge 3
-- Challenge 4
-- Challenge 5
+The following challenges in increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.
+- Challenge 1 - `crypto/caesar-turns-47`
+- Challenge 2 - `crypto/substitute`
+- Challenge 3 - `crypto/vigenere-is-kill`
+- Challenge 4 - `crypto/xor-practice`
+- Challenge 5 - `crypto/practice-run`
 
 ## Resources
 The follow resources are great to practice/learn about the ciphers covered in the slides.

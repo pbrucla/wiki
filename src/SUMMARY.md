@@ -6,6 +6,8 @@
 - [Fall 24](fall-24/fall.md)
     - [Web](fall-24/web/web-1.md)
         - [1: Intro to Web & Client-Side Security](fall-24/web/web-1.md)
+    - [Crypto](fall-24/crypto/crypto-1.md)
+        - [1: Intro to cryptography](fall-24/crypto/crypto-1.md)
 - [Resources](resources.md)
     - [General](general.md)
     - [Cryptography](crypto-resources.md)

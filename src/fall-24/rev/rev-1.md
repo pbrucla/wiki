@@ -11,6 +11,7 @@ A set of challenges with increasing difficulty are deployed to [platform.acmcybe
 - `rev/Character Numbers`
 - `rev/just-dance`
 - `rev/brick-maze`
+- `rev/salsa69`
 
 ## Resources
 The follow resources are great tools for some of the reversing challenges:

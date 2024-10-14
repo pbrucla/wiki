@@ -10,6 +10,7 @@
         - [1: Intro to Web & Client-Side Security](fall-24/web/web-1.md)
     - [Crypto](fall-24/crypto/crypto-1.md)
         - [1: Intro to cryptography](fall-24/crypto/crypto-1.md)
+        - [2: Block Ciphers](fall-24/crypto/crypto-2.md)
     - [Rev/Pwn](fall-24/rev/rev-1.md)
         - [1: Intro to Reverse Engineering](fall-24/rev/rev-1.md)
 - [Resources](resources.md)

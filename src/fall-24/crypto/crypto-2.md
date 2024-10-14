@@ -12,6 +12,8 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - Challenge 2 - `crypto/bigram`
 - Challenge 3 - `crypto/filter-ciphertext`
 - Challenge 4 - `crypto/filter-plaintext`
+- Challenge 5 - `crypto/desfunctional`
+- Challenge 6 - `crypto/be-fast`
 
 ## Resources
 The follow resources are great to practice/learn about the ciphers covered in the slides.

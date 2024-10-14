@@ -10,6 +10,8 @@ We'll be diving into x86\_64/amd64 assembly this week. Being the dominant archit
 A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 3" under "week". They are:
 - `rev/bomb`
 - `rev/bobomb`
+- `rev/bomb2`
+- `rev/jabeglnz`
 - `rev/galfrekcehc`
 
 ## Resources

@@ -13,6 +13,7 @@
         - [2: Block Ciphers](fall-24/crypto/crypto-2.md)
     - [Rev/Pwn](fall-24/rev/rev-1.md)
         - [1: Intro to Reverse Engineering](fall-24/rev/rev-1.md)
+        - [2: Assembly](fall-24/rev/rev-2.md)
 - [Resources](resources.md)
     - [General](general.md)
     - [Cryptography](crypto-resources.md)

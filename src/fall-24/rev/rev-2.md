@@ -1,4 +1,4 @@
-# Reverse Engineering 2: Intro to Reverse Engineering
+# Reverse Engineering 2: Assembly
 by Jason An
 
 We'll be diving into x86\_64/amd64 assembly this week. Being the dominant architecture in laptops, being able to reverse x86 executables is a crucial skill in reverse engineering, and still has many transferrable skills to reversing other architectures. For this week, we'll cover basic x86 instructions, and how to read and work with assembly.

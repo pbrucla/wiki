@@ -6,6 +6,7 @@
 - [Fall 24](fall-24/fall.md)
     - [Fundamentals](fall-24/fundamentals/fundamentals-1.md)
         - [1: Intro to Linux](fall-24/fundamentals/fundamentals-1.md)
+        - [2: Forensics](fall-24/fundamentals/fundamentals-2.md)
     - [Web](fall-24/web/web-1.md)
         - [1: Intro to Web & Client-Side Security](fall-24/web/web-1.md)
     - [Crypto](fall-24/crypto/crypto-1.md)

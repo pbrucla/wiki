@@ -7,6 +7,7 @@
     - [Fundamentals](fall-24/fundamentals/fundamentals-1.md)
         - [1: Intro to Linux](fall-24/fundamentals/fundamentals-1.md)
         - [2: Forensics](fall-24/fundamentals/fundamentals-2.md)
+        - [3: Open Source Reverse Engineering](fall-24/fundamentals/fundamentals-3.md)
     - [Web](fall-24/web/web-1.md)
         - [1: Intro to Web & Client-Side Security](fall-24/web/web-1.md)
         - [2: HTTP Requests](fall-24/web/web-2.md)

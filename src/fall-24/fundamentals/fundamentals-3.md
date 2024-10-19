@@ -12,4 +12,5 @@ We will be doing challenges Character Numbers, just-dance, and brick-maze, avail
 There are more challenges available there if you'd like to try them out.
 
 ## Resources
-A lot of open source reverse engineering is just getting used to reading code. There really aren't any tools or tricks. Just find a project on Github that seems interesting and start reading!
+A lot of open source reverse engineering is just getting used to reading code. Just find a project on Github that seems interesting and start reading!
+- [CyberChef](https://gchq.github.io/CyberChef/): An online tool that has a variety of different encoding and encryption schemes. This may be useful!

@@ -14,6 +14,7 @@
     - [Crypto](fall-24/crypto/crypto-1.md)
         - [1: Intro to cryptography](fall-24/crypto/crypto-1.md)
         - [2: Block Ciphers](fall-24/crypto/crypto-2.md)
+        - [3: Stream & Block Ciphers](fall-24/crypto/crypto-3.md)
     - [Rev/Pwn](fall-24/rev/rev-1.md)
         - [1: Intro to Reverse Engineering](fall-24/rev/rev-1.md)
         - [2: Assembly](fall-24/rev/rev-2.md)

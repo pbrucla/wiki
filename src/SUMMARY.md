@@ -19,6 +19,7 @@
     - [Rev/Pwn](fall-24/rev/rev-1.md)
         - [1: Intro to Reverse Engineering](fall-24/rev/rev-1.md)
         - [2: Assembly](fall-24/rev/rev-2.md)
+        - [3: Assembly Part 2](fall-24/rev/rev-3.md)
 - [Resources](resources.md)
     - [General](general.md)
     - [Cryptography](crypto-resources.md)

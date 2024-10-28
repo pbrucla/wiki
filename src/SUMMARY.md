@@ -12,6 +12,7 @@
         - [1: Intro to Web & Client-Side Security](fall-24/web/web-1.md)
         - [2: HTTP Requests](fall-24/web/web-2.md)
         - [3: Local File Inclusion](fall-24/web/web-3.md)
+        - [4: Advanced Local File Inclusion](fall-24/web/web-4.md)
     - [Crypto](fall-24/crypto/crypto-1.md)
         - [1: Intro to cryptography](fall-24/crypto/crypto-1.md)
         - [2: Block Ciphers](fall-24/crypto/crypto-2.md)

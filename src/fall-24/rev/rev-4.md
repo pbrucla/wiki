@@ -21,7 +21,8 @@ You can practice using GDB on the challenges from previous weeks:
 - `rev/jabeglnz`
 - `rev/nested`
 
-We've also added a new challenge that is designed to be much easier to solve with GDB than with static analysis alone:
+We've also added some new challenges that are designed to be much easier to solve with GDB than with static analysis alone:
+- `rev/dancing`
 - `rev/boxing`
 
 ## Resources

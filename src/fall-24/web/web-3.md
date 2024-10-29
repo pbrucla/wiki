@@ -4,7 +4,7 @@ by Audrey Emis
 The Linux File System has some built in directories that every directory (even seemingly empty ones) have! . represents the current directory and ../ represents the parent directory. Some web apps take file paths as inputs from users, which can lead to sensitive data being uncovered if the user puts in the right input. They can use "../" to get to parent directories, all the wayup to the root directory, where many more files are accessible. This vulnerability is caused by weak input sanitization or other interesting loopholes in the code. Today, we'll learn about LFI and work through some challenges that cover different LFI techniques!
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyZ-0qMoZTTIo1To4MEzs6Rj3PNNhWQyRKakHJfeZkUSiyF_sqz9m01iABEp3W768cxogKg3_ufK6E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyZ-0qMoZTTIo1To4MEzs6Rj3PNNhWQyRKakHJfeZkUSiyF_sqz9m01iABEp3W768cxogKg3_ufK6E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 We'll be working on the following challenges on [platform.acmcyber.com](https://platform.acmcyber.com)

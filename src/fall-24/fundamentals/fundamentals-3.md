@@ -7,7 +7,7 @@ You will (probably) spend more time reading code in your life than writing it. T
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8bjTTxOSkbfIB5fNkM6WJs2ZlWACVmUhmwgGQWKuEBsMKpu-pdUQMGBOxy4Ew5cV8S1xtSeWADM7b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
-We will be doing challenges rev/Character Numbers, rev/just-dance, and rev/brick-maze, available on our platform: [https://platform.acmcyber.com](https://platform.acmcyber.com). 
+We will be doing challenges rev/Character Numbers, rev/just-dance, and rev/brick-maze, available on our platform: [https://platform.acmcyber.com](https://platform.acmcyber.com).
 
 There are more challenges available there if you'd like to try them out.
 

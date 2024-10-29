@@ -4,7 +4,7 @@ by Ronak Badhe
 Last week, we covered why local file inclusion is possible and some basic LFI techniques. This week, we'll dive into more **advanced techniques** that can be used to bypass certain mitigations. Oftentimes, different languages have different quirks when handling file paths. Unintuitive behavior is the basis for security vulnerabilities. There are special linux files that contain more information for exploitation, like **/proc/self** and **/dev/fd**. When coming up with LFI exploits, you should research the app's language/framework (especially if the framework is not super common or "normal") and do a lot of experimenting! We'll work through some advanced LFI challenges today and learn about various strange behaviors in web apps.
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6rd0lWABMRVvKHxioYUDnHHdUThuA6Goa4TieRlsLUO0uPqqq2KMZcSpWNQ695vnZRJgjh1j6-9fy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6rd0lWABMRVvKHxioYUDnHHdUThuA6Goa4TieRlsLUO0uPqqq2KMZcSpWNQ695vnZRJgjh1j6-9fy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 We'll be continuting on challenges from last week along with two new challenges, all deployed on [platform.acmcyber.com](https://platform.acmcyber.com)

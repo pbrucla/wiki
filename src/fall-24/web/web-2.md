@@ -4,7 +4,7 @@ by Renuka Bhusari
 **HTTP requests** are essential for web communication, but they also serve as critical vectors for potential threats. HTTP (HyperText Transfer Protocol) is the protocol that governs the communication between a client (like a web browser) and a web server. When a user tries to access a website, their browser sends an HTTP request, and the server responds with the requested content, such as HTML, CSS, or images. This week's content covers how to send requests to web pages using curl and python, start request sessions, and more!
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/1CexVPu-R4y06QF5HoiR4lwNGV2GRdYtdMfPdzk7qsHc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1CexVPu-R4y06QF5HoiR4lwNGV2GRdYtdMfPdzk7qsHc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 The following challenges in increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.

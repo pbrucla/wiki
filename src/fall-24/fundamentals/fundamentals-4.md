@@ -6,7 +6,7 @@ As you know, the Internet is a really cool and fun place! It follows the **clien
 Unfortunately for website creators, there exists many possibile website vulnerabilities accessible straight from your browser! This is **client side security**, which deals with vulnerabilites that can be exploited straight from the client. When looking into client side security, Chrome Dev Tools is your best friend. It allows you to look at the website sources, run JavaScript, see network requests, edit cookies, and more.
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTR1RnCj0cF8QYE99foD-J6dpGuXrV9lUHX-OrYCRPUArCys_kQyskQ5B5JsPDorcWDb_eABSlypiad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTR1RnCj0cF8QYE99foD-J6dpGuXrV9lUHX-OrYCRPUArCys_kQyskQ5B5JsPDorcWDb_eABSlypiad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 We will be doing challenges web/control-you, web/sourcery, and web/cooking, web/acm-netsec, and web/terms-and-conditions, available on our platform: [https://platform.acmcyber.com](https://platform.acmcyber.com). These challenges are ordered by increasing difficulty, but feel free to jump around if you want.

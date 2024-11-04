@@ -1,4 +1,4 @@
-# Crypto 2: Stream Ciphers
+# Crypto 5: RSA
 by Gary Song
 
 RSA has a huge cultural signifigance for being the first pratical asymmetric cryptosystem, for which it was warded a turning award. For that reason, it is an important foundation for any aspiring cryptographer to study about. We cover the RSA cryptosystem, what it is, what calculations are needed, and a short proof on why it works. Later, we will discuss common attacks on the RSA cryptosystem
@@ -17,3 +17,5 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 The follow resources are great to practice/learn about the ciphers covered in the slides.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [cryptohack](https://cryptohack.org/): A website with many challenges related to cryptography
+- [Alpertron](https://www.alpertron.com.ar/ECM.HTM): A fast online integer factorization calculator for large numbers
+- [FactorDB](https://factordb.com/): A large online database of integers and their factors

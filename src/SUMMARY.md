@@ -19,6 +19,7 @@
         - [2: Block Ciphers](fall-24/crypto/crypto-2.md)
         - [3: Stream & Block Ciphers](fall-24/crypto/crypto-3.md)
         - [4: Modular Arithmetic, DHKE](fall-24/crypto/crypto-4.md)
+        - [4: RSA](fall-24/crypto/crypto-5.md)
     - [Rev/Pwn](fall-24/rev/rev-1.md)
         - [1: Intro to Reverse Engineering](fall-24/rev/rev-1.md)
         - [2: Assembly](fall-24/rev/rev-2.md)

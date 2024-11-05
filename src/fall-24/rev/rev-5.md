@@ -20,5 +20,5 @@ You can also practice using decompilers on some of the challenges from previous 
 - `rev/boxing`
 
 ## Resources
-The follow resources are great tools for some of the reversing challenges:
+The following resources are great tools for some of the reversing challenges:
 - [Binary Ninja documentation](https://docs.binary.ninja/guide/index.html)

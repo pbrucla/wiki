@@ -26,7 +26,7 @@ We've also added some new challenges that are designed to be much easier to solv
 - `rev/boxing`
 
 ## Resources
-The follow resources are great tools for some of the reversing challenges:
+The following resources are great tools for some of the reversing challenges:
 - [GDB documentation](https://sourceware.org/gdb/documentation/): Information on using GDB
 - [GDB reference card](https://www.sourceware.org/gdb/download/onlinedocs/refcard.pdf): Cheat sheet with common GDB commands
 - [GEF documentation](https://hugsy.github.io/gef/): Information on how to install and use GEF

@@ -14,7 +14,7 @@ A set of challenges with increasing difficulty are deployed to [platform.acmcybe
 - `rev/salsa69`
 
 ## Resources
-The follow resources are great tools for some of the reversing challenges:
+The following resources are great tools for some of the reversing challenges:
 - [Online Java Decompiler](https://www.decompiler.com): An entirely online tool that can decompile Java jar/class files back to decent-quality source code.
 - [repl.it](https://replit.com): A website that lets you run many different programming languages online, which you can use to play around with programs if you don't want to install them locally.
 - [CyberChef](https://gchq.github.io/CyberChef/): An online tool that has a variety of different encoding and encryption schemes, which may be useful.

@@ -16,7 +16,7 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - Challenge 6 - `crypto/lazy-lagrange`
 
 ## Resources
-The follow resources are great to practice/learn about the ciphers covered in the slides.
+The following resources are great to practice/learn about the ciphers covered in the slides.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [alperton](https://www.alpertron.com.ar/DILOG.HTM): Has a discrete logarithm solver that works fast for small `n`.
 - [SageMath](https://www.sagemath.org/): An open-source mathematical software tool. Works with Python and has many constructs that are very useful in modular arithmetic/cryptography.

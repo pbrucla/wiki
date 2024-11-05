@@ -25,6 +25,7 @@
         - [2: Assembly](fall-24/rev/rev-2.md)
         - [3: Assembly Part 2](fall-24/rev/rev-3.md)
         - [4: GDB](fall-24/rev/rev-4.md)
+        - [5: Decompilers](fall-24/rev/rev-5.md)
 - [Resources](resources.md)
     - [General](general.md)
     - [Cryptography](crypto-resources.md)

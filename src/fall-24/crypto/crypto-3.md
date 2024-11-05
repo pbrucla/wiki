@@ -12,5 +12,5 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - Challenge 2 - `crypto/count-the-counter`
 
 ## Resources
-The follow resources are great to practice/learn about the ciphers covered in the slides.
+The following resources are great to practice/learn about the ciphers covered in the slides.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.

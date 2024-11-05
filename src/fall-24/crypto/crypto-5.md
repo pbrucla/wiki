@@ -14,7 +14,7 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - Challenge 4 - `crypto/rubiks-cube-2`
 
 ## Resources
-The follow resources are great to practice/learn about the ciphers covered in the slides.
+The following resources are great to practice/learn about the ciphers covered in the slides.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [cryptohack](https://cryptohack.org/): A website with many challenges related to cryptography
 - [Alpertron](https://www.alpertron.com.ar/ECM.HTM): A fast online integer factorization calculator for large numbers

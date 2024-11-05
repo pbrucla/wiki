@@ -16,6 +16,6 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - Challenge 6 - `crypto/be-fast`
 
 ## Resources
-The follow resources are great to practice/learn about the ciphers covered in the slides.
+The following resources are great to practice/learn about the ciphers covered in the slides.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [Modes of Operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation) A good article about the different modes of operation of block ciphers.

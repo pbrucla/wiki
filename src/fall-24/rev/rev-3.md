@@ -14,6 +14,6 @@ A set of challenges with increasing difficulty are deployed to [platform.acmcybe
 - `rev/galfrekcehc`
 
 ## Resources
-The follow resources are great tools for some of the reversing challenges:
+The following resources are great tools for some of the reversing challenges:
 - [objdump command](https://man7.org/linux/man-pages/man1/objdump.1.html): A command that lets you disassemble an executable to extract the assembly
 - [x86 reference](https://www.felixcloutier.com/x86/): An HTML rendering of the Intel handbook containing details on every x86 instruction

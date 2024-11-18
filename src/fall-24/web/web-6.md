@@ -3,7 +3,7 @@ by Stewart Kwok
 
 Cross-Site Scripting (XSS) is a web vulnerability that allows attackers to inject malicious scripts into websites, which are then executed in a victim's browser. This type of attack can lead to the theft of **sensitive data** such as **cookies** or **session tokens**, and is a significant threat to web security.
 
-Today, we explored various methods of injecting JavaScript, including the use of `<script>` tags and **event attributes**. We also covered how attackers simulate victim interactions with **automated bots** to steal sensitive data like **cookies** or **flags**. We discussed advanced exploitation techniques, such as the **double-fetch trick**, to bypass **HTTPOnly cookie protections**. Finally, we examined defenses like **input sanitization** and the challenges of bypassing these security measures.
+Today, we explored various methods of injecting JavaScript, including the use of `<script>` tags and **event attributes**. We also covered how attackers simulate victim interactions with **admin bots** to steal sensitive data like **cookies** or **flags**. We discussed advanced exploitation techniques, such as the **double-fetch trick**, to bypass **HTTPOnly cookie protections**. Finally, we examined defenses like **input sanitization** and the challenges of bypassing these security measures.
 
 
 ## Slides
@@ -11,11 +11,14 @@ Today, we explored various methods of injecting JavaScript, including the use of
 
 ## Challenges
 The following XSS challenges are deployed to [platform.acmcyber.com](https://platform.acmcyber.com)
-- Challenge 1 - `web/hello-my-name-is`
-- Challenge 2 - `web/acm-picks`
-- Challenge 3 - `web/xtra-salty-sardines`
-- Challenge 4 - `web/brainrot-xss`
-- Challenge 5 - `web/hptla`
+- Challenge 1 - `web/noted`
+- Challenge 2 - `web/among-us`
+- Challenge 3 - `web/among-us-xtra-sus`
+- Challenge 4 - `web/hello-my-name-is`
+- Challenge 5 - `web/acm-picks`
+- Challenge 6 - `web/xtra-salty-sardines`
+- Challenge 7 - `web/brainrot-xss`
+- Challenge 8 - `web/hptla`
 
 ## Resources
 The following are resources for different kinds of XSS attacks.

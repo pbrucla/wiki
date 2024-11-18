@@ -13,7 +13,7 @@ Today, we explored various methods of injecting JavaScript, including the use of
 The following XSS challenges are deployed to [platform.acmcyber.com](https://platform.acmcyber.com)
 - Challenge 1 - `web/noted`
 - Challenge 2 - `web/among-us`
-- Challenge 3 - `web/among-us-xtra-sus`
+- Challenge 3 - `web/among-us-extra-sus`
 - Challenge 4 - `web/hello-my-name-is`
 - Challenge 5 - `web/acm-picks`
 - Challenge 6 - `web/xtra-salty-sardines`

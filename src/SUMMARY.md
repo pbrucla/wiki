@@ -17,6 +17,7 @@
         - [3: Local File Inclusion](fall-24/web/web-3.md)
         - [4: Advanced Local File Inclusion](fall-24/web/web-4.md)
         - [5: XSS](fall-24/web/web-5.md)
+        - [6: XSS](fall-24/web/web-6.md)
     - [Crypto](fall-24/crypto/crypto-1.md)
         - [1: Intro to cryptography](fall-24/crypto/crypto-1.md)
         - [2: Block Ciphers](fall-24/crypto/crypto-2.md)

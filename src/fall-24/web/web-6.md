@@ -9,8 +9,6 @@ Today, we explored various methods of injecting JavaScript, including the use of
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSX46Wtn2ptm1VMnHwigF6pgzvsHs_Q9lhuQZbJgGeyXk3I48_Ri903U61fS5dsw4hExYNeIQ1ThxL2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-https://docs.google.com/presentation/d/1FO3Nu12UK33MRSysP8kWndCW7t_98JaCJj-VbiHq55s/edit#slide=id.g2f8929da001_0_0
-
 ## Challenges
 The following XSS challenges are deployed to [platform.acmcyber.com](https://platform.acmcyber.com)
 - Challenge 1 - `web/homework`

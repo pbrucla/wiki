@@ -1,4 +1,4 @@
-# Web 6: XSS
+# Web 6: XSS Revisited
 by Stewart Kwok
 
 Cross-Site Scripting (XSS) is a web vulnerability that allows attackers to inject malicious scripts into websites, which are then executed in a victim's browser. This type of attack can lead to the theft of **sensitive data** such as **cookies** or **session tokens**, and is a significant threat to web security.
@@ -7,7 +7,9 @@ Today, we explored various methods of injecting JavaScript, including the use of
 
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrAAOBLXED4dRhTRJMcyY30YA603hnSpjNXMoj_s0Sia0oh5hOafiB3iH4f4xGWIDtl3tKINKBI4hy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSX46Wtn2ptm1VMnHwigF6pgzvsHs_Q9lhuQZbJgGeyXk3I48_Ri903U61fS5dsw4hExYNeIQ1ThxL2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+https://docs.google.com/presentation/d/1FO3Nu12UK33MRSysP8kWndCW7t_98JaCJj-VbiHq55s/edit#slide=id.g2f8929da001_0_0
 
 ## Challenges
 The following XSS challenges are deployed to [platform.acmcyber.com](https://platform.acmcyber.com)

@@ -1,16 +1,20 @@
-# Fundamentals 3: Open Source Rev
-by Mark Epstein
+# Fundamentals 3: Intro to Reverse Engineering
+by Mark Epstein & Jason An
 
-You will (probably) spend more time reading code in your life than writing it. That being the case, the ability to figure out what it's doing, or reverse engineer it, is extremely important regardless of whether you stay in cybersecurity or move on to regular software engineering. Often when dealing with reverse engineering in cybersecurity, it's helpful to have a good understanding of how data is represented in memory. That will be our primary focus alongside a little more high level reverse engineering.
+Reverse engineering is a field of cybersecurity that involves figuring out what a program, often compiled, does, in order to achieve some kind of goal, like bypassing a license check or finding a vulnerability in the software. From professional positions like vulnerability research and malware analysis, to hobbyist activities like game modding or DRM cracking, reverse engineering has a wide variety of interesting applications in cybersecurity. We'll start off by learning basic reverse engineering principles on programs with full to nearly-full source code access, and then move towards learning how to reverse engineer *compiled* executables later on.
 
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8bjTTxOSkbfIB5fNkM6WJs2ZlWACVmUhmwgGQWKuEBsMKpu-pdUQMGBOxy4Ew5cV8S1xtSeWADM7b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
-We will be doing challenges rev/Character Numbers, rev/just-dance, and rev/brick-maze, available on our platform: [https://platform.acmcyber.com](https://platform.acmcyber.com).
-
-There are more challenges available there if you'd like to try them out.
+A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 2" under "week". They are:
+- `rev/Character Numbers`
+- `rev/just-dance`
+- `rev/brick-maze`
+- `rev/salsa69`
 
 ## Resources
-A lot of open source reverse engineering is just getting used to reading code. Just find a project on Github that seems interesting and start reading!
-- [CyberChef](https://gchq.github.io/CyberChef/): An online tool that has a variety of different encoding and encryption schemes. This may be useful!
+The following resources are great tools for some of the reversing challenges:
+- [Online Java Decompiler](https://www.decompiler.com): An entirely online tool that can decompile Java jar/class files back to decent-quality source code.
+- [repl.it](https://replit.com): A website that lets you run many different programming languages online, which you can use to play around with programs if you don't want to install them locally.
+- [CyberChef](https://gchq.github.io/CyberChef/): An online tool that has a variety of different encoding and encryption schemes, which may be useful.

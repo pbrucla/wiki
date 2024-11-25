@@ -35,6 +35,7 @@
         - [5: Decompilers](fall-24/rev/rev-5.md)
     - [Pwn](fall-24/pwn/pwn-1.md)
         - [1: Intro to Pwn](fall-24/pwn/pwn-1.md)
+        - [2: Return-Oriented Programming](fall-24/pwn/pwn-2.md)
 - [Resources](resources.md)
     - [General](general.md)
     - [Cryptography](crypto-resources.md)

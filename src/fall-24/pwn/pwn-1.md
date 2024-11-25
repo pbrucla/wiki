@@ -8,7 +8,7 @@ We will learn about basic pwn concepts today and exploit buffer overflow vulnera
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuWJBnzscaJT3GAzuGT8f21xUaLqawfuUHSIMhhDQVVRKOwj8l1Gx8UplqmmW5WqxmhU-v1ekn3-tW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
-A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 2" under "week". They are:
+A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 8" under "week". They are:
 - `pwn/pwn0`
 - `pwn/ret2win`
 - `pwn/bot`

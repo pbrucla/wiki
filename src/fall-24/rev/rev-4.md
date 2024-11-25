@@ -9,7 +9,7 @@ We will also learn about GEF, a GDB extension with lots of useful features for C
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmj2dNYYoUR41U2RdCynZUSHgIFRsa4uswnlm-I13fekNJiUAR7jZAE1uxw67YHl7wliUyAQqMJxKD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
-A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 3" under "week". They are:
+A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 5" under "week". They are:
 You can practice using GDB on the challenges from previous weeks:
 - `rev/bomb`
 - `rev/bomb2`

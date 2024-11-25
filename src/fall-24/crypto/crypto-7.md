@@ -21,3 +21,5 @@ The following resources are great to practice/learn about the ciphers covered in
 - [FactorDB](https://factordb.com/): A large online database of integers and their factors
 - [DanBoneh](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf): A paper by a Stanford professor on RSA attacks
 - [hackMD](https://hackmd.io/): A very useful markdown editor/publisher
+- [Twin Prime](https://freedthelamb.com/blog/2023/twinprime/): Gary's writeup for Twin Primes from Buckeye CTF 2023, a good example of a writeup for an easier challenge.
+- [SHA256-CTR](https://github.com/AVDestroyer/CTF-Writeups/blob/main/sdctf2023/sha256-ctr.md): Arnav's writeup for SHA256-CTR from SDCTF 2023, a good example of a writeup for a harder challenge.

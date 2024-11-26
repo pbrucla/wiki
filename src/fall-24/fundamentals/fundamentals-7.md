@@ -1,4 +1,4 @@
-# Fundamentals 6: Model Cryptography Basics
+# Fundamentals 6: Modern Cryptography Basics
 by Rathul Anand
 
 Cryptography is the process of hiding information or communicating securely in an environment where everyone is trying to read the communication. Most cryptography examples involve Alice and Bob trying to communicate while Eve listens in. Today, we explore **modern cryptography**, heavily rooted in modular arithmetic. Modular arihmetic the language underlying modern cryptosystems. Many cryptographic alogirhtms rely on this arithmetic, where numbers "wrap around" after reaching a certain modulus. For example, the Diffie-Hellman Key Exchange (DHKE), which we covered today, leverages modular exponentiation to enable two parties to share a secret over an insecure channel. By applying modular arithmetic, both parties can compute the same shared secret without revealing or sharing their private keys. This principle forms the basis for secure communication in many asymmetric encryption schemes. We also cover the RSA cryptosystem, what it is, what calculations are needed, and a short proof on why it works.

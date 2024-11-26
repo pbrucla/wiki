@@ -11,6 +11,7 @@
         - [4: Intro to Web & Client-Side Security](fall-24/fundamentals/fundamentals-4.md)
         - [5: HTTP Requests](fall-24/fundamentals/fundamentals-5.md)
         - [6: Introduction to Cryptography](fall-24/fundamentals/fundamentals-6.md)
+        - [7: Modern Cryptography Basics](fall-24/fundamentals/fundamentals-7.md)
     - [Web](fall-24/web/web-1.md)
         - [1: Intro to Web & Client-Side Security](fall-24/web/web-1.md)
         - [2: HTTP Requests](fall-24/web/web-2.md)

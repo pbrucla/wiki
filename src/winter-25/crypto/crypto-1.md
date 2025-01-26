@@ -23,7 +23,6 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 The following resources are great to practice/learn about the ciphers covered in the slides.
 
 - [dcode.fr](https://www.dcode.fr/): This website hosts many classical ciphers, and provides tools for encryption, decryption, and automatic cracking of ciphers. This is a staple for classical cryptography challenges.
-- [guballa Substitution Solver](https://www.guballa.de/substitution-solver): My personal favorite website to crack monoalphabetic substitution ciphers.
 - [Cyberchef](https://gchq.github.io/CyberChef/): This website also hosts many ciphers, and provides tools for encryption, decryption, and automatic cracking. It is very powerful at detecting the cipher used in encryption if is unknown, and is also a staple for classical cryptography challenges.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [SageMath](https://www.sagemath.org/): An open-source mathematics system that integrates with Python and is incredibly useful in many cryptography challenges.

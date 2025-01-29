@@ -1,26 +1,29 @@
-# Crypto 5: RSA
+# Crypto 2: Modular arithmetic, RSA
 
-by Gary Song
+by Rathul Anand
 
 RSA has a huge signifigance for being the first pratical asymmetric cryptosystem, for which it was awarded a turning award. For that reason, it is an important foundation for any aspiring cryptographer to study about. We cover the RSA cryptosystem, what it is, what calculations are needed, and a short proof on why it works. Later, we will discuss common attacks on the RSA cryptosystem
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdZLqG-oOwBS3syoy3gbJ7uYe3T46ny9gkaZoGV3S9yhevPrArUL_ZIBzio4ecRG34_Ake_-OTOrCG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFmqSzZcsTydXe53pWLn21V_vgDecElYlw-uKTBMAYRNQSStC1x-vHi3QBpmrJFB-MNauDYdGgNXDL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 
 The following challenges in increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.
 
-- Challenge 1 - `crypto/rsa-practice`
-- Challenge 2 - `crypto/rubiks-cube`
-- Challenge 3 - `crypto/prime-factory`
-- Challenge 4 - `crypto/rubiks-cube-2`
+- Challenge 1 - `crypto/modular-ractice`
+- Challenge 2 - `crypto/bigram`
+- Challenge 3 - `crypto/rsa-practice`
+- Challenge 4 - `crypto/rubiks-cube`
+- Challenge 5 - `crypto/prime-factory`
+- Challenge 6 - `crypto/rubiks-cube-2`
 
 ## Resources
 
 The following resources are great to practice/learn about the ciphers covered in the slides.
 
+- [SageMath](https://www.sagemath.org/): An open-source mathematics system that integrates with Python and is incredibly useful in many cryptography challenges.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [cryptohack](https://cryptohack.org/): A website with many challenges related to cryptography
 - [Alpertron](https://www.alpertron.com.ar/ECM.HTM): A fast online integer factorization calculator for large numbers

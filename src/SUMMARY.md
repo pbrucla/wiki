@@ -43,6 +43,8 @@
     - [1: Basic SQL Injection](winter-25/web/web-1.md)
   - [Crypto](winter-25/crypto/crypto-1.md)
     - [1: Intro to Cryptography/Math](winter-25/crypto/crypto-1.md)
+    - [2: Modular Arithmetic/RSA](winter-25/crypto/crypto-2.md)
+    - [3: RSA](winter-25/crypto/crypto-3.md)
   - [Pwn](winter-25/pwn/pwn-1.md)
     - [1: Review, Ret2Win](winter-25/pwn/pwn-1.md)
 - [Resources](resources.md)

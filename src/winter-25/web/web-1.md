@@ -1,4 +1,4 @@
-# Crypto 1: SQL Injection
+# Web 1: Basic SQL Injection
 
 by Renuka Bhusari
 

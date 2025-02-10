@@ -1,4 +1,4 @@
-# Crypto 2: RSA
+# Crypto 3: RSA
 
 by Gary Song
 
@@ -12,14 +12,15 @@ RSA has a huge signifigance for being the first pratical asymmetric cryptosystem
 
 The following challenges in increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides.
 
-- Challenge 1 - `lactf: crypto/RSAaaS`
+- Challenge 1 - `crypto/RSAaaS` (on [platform.lac.tf](https://platform.lac.tf))
 - Challenge 2 - `crypto/rubiks-cube`
 - Challenge 3 - `crypto/prime-factory`
 - Challenge 4 - `crypto/rubiks-cube-2`
+- Challenge 5 - `crypto/big-e` (on [platform.lac.tf](https://platform.lac.tf))
 
 ## Resources
 
-The following resources are great to practice/learn about the ciphers covered in the slides.
+The following resources are great to practice/learn about the RSA.
 
 - [SageMath](https://www.sagemath.org/): An open-source mathematics system that integrates with Python and is incredibly useful in many cryptography challenges.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.

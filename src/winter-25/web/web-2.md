@@ -1,5 +1,9 @@
 # Web 2: Advanced SQL Injection
 
+Sql injection is a web vulnerability in which an attacker can inject special characters into an sql query and take control of the query. This allows them to potentially leak, delete, or compromise data. Ever seen a site asking you to not use —? That’s because of sql injection!
+
+This cyber academy we will be learning more about this attack, and performing some more advanced techniques to exfiltrate data in various restrictive scenarios.
+
 by Ronak Badhe
 
 ## Slides

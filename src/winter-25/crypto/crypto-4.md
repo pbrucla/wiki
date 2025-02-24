@@ -16,6 +16,7 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - Challenge 2 - `crypto/practice-run-2`
 - Challenge 3 - `crypto/forgeme`
 - Challenge 4 - `crypto/bigram`
+- Challenge 5 - `crypto/DESfunctional`
 
 ## Resources
 

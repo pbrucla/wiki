@@ -43,6 +43,7 @@
     - [1: Basic SQL Injection](winter-25/web/web-1.md)
     - [2: Advanced SQL Injection](winter-25/web/web-2.md)
     - [3: LACTF Challenges](winter-25/web/web-3.md)
+    - [4: XSS, CSP](winter-25/web/web-4.md)
   - [Crypto](winter-25/crypto/crypto-1.md)
     - [1: Intro to Cryptography/Math](winter-25/crypto/crypto-1.md)
     - [2: Modular Arithmetic/RSA](winter-25/crypto/crypto-2.md)

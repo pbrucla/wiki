@@ -49,6 +49,7 @@
     - [2: Modular Arithmetic/RSA](winter-25/crypto/crypto-2.md)
     - [3: RSA](winter-25/crypto/crypto-3.md)
     - [4: Signatures, Symmetric Cryptography](winter-25/crypto/crypto-4.md)
+    - [5: PRNGs and Writeups](winter-25/crypto/crypto-5.md)
 - [Resources](resources.md)
   - [General](general.md)
   - [Cryptography](crypto-resources.md)

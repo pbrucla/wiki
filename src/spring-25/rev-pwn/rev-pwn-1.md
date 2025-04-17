@@ -1,4 +1,4 @@
-# Rev-Pwn 1: Introduction to Reverse Engineering
+# Rev 1: Introduction to Reverse Engineering
 
 by Jason An
 

@@ -6,12 +6,20 @@ Reverse engineering is a field of cybersecurity that involves figuring out what 
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8bjTTxOSkbfIB5fNkM6WJs2ZlWACVmUhmwgGQWKuEBsMKpu-pdUQMGBOxy4Ew5cV8S1xtSeWADM7b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRBhMUSYUJlyimteu_Kj3_wdVk6kZURNxFTJ0CLSHcTab9dvH17oR3LrWCEkhfRCrALyfuezxDkIlP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 
-A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. You can filter for them on the platform by checking "rev" under "Categories", and "week 2" under "week". They are:
+A set of challenges with increasing difficulty are deployed to [platform.acmcyber.com](https://platform.acmcyber.com) to practice the concepts covered in the slides. 
 
+Rev Challenges:
+- `rev/Character Numbers`
+- `rev/my EPIC scrambler`
+- `rev/sandwich`
+- `rev/brick-maze`
+- `rev/schedule-i`
+- `rev/dancing`
+- `rev/salsa69`
 
 ## Resources
 The following resources are great tools for some of the reversing challenges:

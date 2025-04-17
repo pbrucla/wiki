@@ -39,13 +39,13 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 
 1. Go to the [style-stealer site](https://style-stealer.acmcyber.com/)
 2. Generate your script (heh good luck).
-3. Paste your script into the big CSS box.
+3. Paste your script into the big CSS box (it should be pretty visible).
 4. Put your desired level into the small Level (1-6, 100)
 5. Submit and Test (ask us if you have questions)
     - On the blank page, click "View style".
-    - See if the letter(s) that are displayed match the letter(s) logged on your webhook.
+    - See if the letter(s) that are displayed match the letter(s) logged on your webhook (this is like a sanity check).
 6. Copy the URL and DM it to `r2uwu2` on Discord.
-7. Once he opens your page, you should get a visit to your webhook with the letter(s) logged there.
+7. Once he opens your page, you should get a visit to your webhook with the letter(s) logged there (fingers crossed).
 8. If the letters match, he will give you the flag :D. If they don't ...
 
 ## Resources

@@ -55,6 +55,8 @@
     - [1: Intro to Cryptography/Math](spring-25/crypto/crypto-1.md)
   - [Rev / Pwn](spring-25/rev-pwn/rev-pwn-1.md)
     - [1: Intro to Reverse Engineering](spring-25/rev-pwn/rev-pwn-1.md)
+  - [Web](spring-25/web/web-1.md)
+    - [1: CSS Exfiltration Attack](spring-25/web/web-1.md)
 - [Resources](resources.md)
   - [General](general.md)
   - [Cryptography](crypto-resources.md)

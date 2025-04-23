@@ -6,7 +6,7 @@ Cryptography is the process of hiding information or communicating securely in a
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2LxI6MkXZprWbkjSQtdcuPnD1GxHuWDy4Wr4eBu1NjtWq0TmpJZLWeRRzlPIT0-pVMTkeVQfjwV6g/embed?start=false&loop=false&delayms=3000" frameborder="0"width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyeM7SRl77hpox0XoBhFotXnjPUdWUeEc1pr92uuGOkzzGwbNTjvOFaCrOmUJA7v0DLdL_LUzQwjhl/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" style="aspect-ratio: 16 / 10;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Challenges
 

@@ -2,7 +2,7 @@
 
 by Arnav Vora
 
-We will cover symmetric cryptography this week. Instead of asymmetric cryptography, where different keys are used for encryption and decryption, symmetric cryptography uses the same keys for both. These are many benefits and drawbacks to this form of cryptography. We will discuss the two main forms of symmetric cryptography: block ciphers and stream ciphers.
+We will discuss one type of modern cipher that is actually practical to use: symmetric cryptography. Symmetric cryptography uses the same keys for both encryption and decryption. These are many benefits and drawbacks to this form of cryptography. We will discuss the two main forms of symmetric cryptography: block ciphers and stream ciphers. Block ciphers divide plaintext into fixed-size blocks, and encrypt each block separately. These blocks are then combined with a certain _mode of operation_, which can open up more attacks. Stream ciphers are similar to the XOR operation, but instead they use a key to generate a _keystream_ to XOR the plaintext with.
 
 ## Slides
 
@@ -18,18 +18,16 @@ These challenges are review from last week: (tags on the platform: crypto, cyber
 - `crypto/Practice Run`
 - `crypto/bigram`
 
-These are new challenges: (tags on the platform: week 4)
+These challenges are chosen for this week: (tags on the platform: crypto, cyber academy, week 4)
 
-- `crypto/convenient-cbc`
 - `crypto/extremely-convenient-beaker`
-- `crypto/admin-login`
 - `crypto/convenient-cbc`
+- `crypto/admin-login`
 
 ## Resources
 
 The following resources are great to practice/learn about the concepts covered in the slides.
 
-- [SageMath](https://www.sagemath.org/): An open-source mathematics system that integrates with Python and is incredibly useful in many cryptography challenges.
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [cryptohack](https://cryptohack.org/): A website with many challenges related to cryptography
 - [Modes of Operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation) A good article about the different modes of operation of block ciphers.

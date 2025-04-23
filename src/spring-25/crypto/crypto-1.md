@@ -14,21 +14,23 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 
 These challenges are beginner friendly: (tags on the platform: crypto, cyber academy, week 3)
 
-- Challenge 1 - `crypto/XOR Practice`
-- Challenge 2 - `crypto/Modular Practice`
-- Challenge 3 - `crypto/vigexor`
-- Challenge 4 - `crypto/Practice Run`
-- Challenge 5 - `crypto/bigram`
+- `crypto/XOR Practice`
+- `crypto/Modular Practice`
+- `crypto/vigexor`
+- `crypto/Practice Run`
+- `crypto/bigram`
 
 These challenges are a bit harder: (can be found under the `upsolving` category under the week tab)
 
-- Challenge 6 - `crypto/chinese-lazy-theorem-1`
-- Challenge 7 - `crypto/prime-factory`
-- Challenge 8 - `crypto/lunchly-exchange`
-- Challenge 9 - `crypto/chinese-lazy-theorem-2`
-- Challenge 10 - `crypto/Golden Ticket`
-- Challenge 11 - `crypto/mitm`
-- Challenge 12 - `crypto/Lazy Lagrange`
+- `crypto/rubiks-cube`
+- `crypto/chinese-lazy-theorem-1`
+- `crypto/prime-factory`
+- `crypto/lunchly-exchange`
+- `crypto/rubiks-cube-2`
+- `crypto/chinese-lazy-theorem-2`
+- `crypto/Golden Ticket`
+- `crypto/mitm`
+- `crypto/Lazy Lagrange`
 
 ## Resources
 

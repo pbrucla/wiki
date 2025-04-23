@@ -56,6 +56,7 @@
     - [2: Symmetric Cryptography](spring-25/crypto/crypto-2.md)
   - [Rev / Pwn](spring-25/rev-pwn/rev-pwn-1.md)
     - [1: Intro to Reverse Engineering](spring-25/rev-pwn/rev-pwn-1.md)
+    - [2: Intro to Assembly](spring-25/rev-pwn/rev-pwn-2.md)
   - [Web](spring-25/web/web-1.md)
     - [1: CSS Exfiltration Attack](spring-25/web/web-1.md)
 - [Resources](resources.md)

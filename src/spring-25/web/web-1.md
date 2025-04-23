@@ -77,6 +77,7 @@ input {
 ```
 
 conceptual question #1: why do we use 3 character long pattern searches?
+
 conceptual question #2: how will we solve level 100 with only 3 character long searches?
 
 note: there is also a recursive method to solve level 100 but that requires a web server (ask Ronak for more details)

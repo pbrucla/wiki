@@ -1,6 +1,6 @@
 # Crypto 2: Symmetric Cryptography
 
-by Arnav Vora
+by Danniell Xu
 
 We will discuss one type of modern cipher that is actually practical to use: symmetric cryptography. Symmetric cryptography uses the same keys for both encryption and decryption. These are many benefits and drawbacks to this form of cryptography. We will discuss the two main forms of symmetric cryptography: block ciphers and stream ciphers. Block ciphers divide plaintext into fixed-size blocks, and encrypt each block separately. These blocks are then combined with a certain _mode of operation_, which can open up more attacks. Stream ciphers are similar to the XOR operation, but instead they use a key to generate a _keystream_ to XOR the plaintext with.
 
@@ -30,4 +30,4 @@ The following resources are great to practice/learn about the concepts covered i
 
 - [pycryptodome](https://pypi.org/project/pycryptodome/): A library that implements many modern-day cryptographic algorithms.
 - [cryptohack](https://cryptohack.org/): A website with many challenges related to cryptography
-- [Modes of Operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation) A good article about the different modes of operation of block ciphers.
+- [Modes of Operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation): A good article about the different modes of operation of block ciphers.

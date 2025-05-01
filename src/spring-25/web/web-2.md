@@ -7,6 +7,7 @@ There are 3 parts of a JWT token, separated by periods (.), with the format as h
 - Header - tells you the algorithm used to sign the token
 - Payload -  information connected to the user, such as permissions
 - Signature - Proof that the token hasn't been messed with, determined by Algorithm(header.payload, secret)
+
 The components are base64 encoded and not encrypted, so anyone can decipher them
 
 ## Challenges

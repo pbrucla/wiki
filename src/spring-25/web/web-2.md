@@ -1,4 +1,4 @@
-# Web 5: JWT Web Tokens
+# Web 5-6: JWT
 
 ## What is a JWT?
 Jason Web Tokens (JWT) are method of user authentication. The server sends a signed JWT to the user's browser, which contains information like user privileges.
@@ -16,6 +16,7 @@ The following challenges in increasing difficulty are deployed to [platform.acmc
 - `mcqueen-login`
 - `dwayne-the-rock-johnson`
 - `kidding-around`
+- `imagehost`
 
 ## Resources
 - [jwt.io](https://jwt.io/)

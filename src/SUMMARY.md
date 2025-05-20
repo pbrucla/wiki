@@ -55,6 +55,7 @@
     - [1: Intro to Cryptography](spring-25/crypto/crypto-1.md)
     - [2: Symmetric Cryptography](spring-25/crypto/crypto-2.md)
     - [3: Advanced Symmetric Cryptography](spring-25/crypto/crypto-3.md)
+    - [4: Lattices](spring-25/crypto/crypto-4.md)
   - [Rev / Pwn](spring-25/rev-pwn/rev-pwn-1.md)
     - [1: Intro to Reverse Engineering](spring-25/rev-pwn/rev-pwn-1.md)
     - [2-3: Intro to Assembly](spring-25/rev-pwn/rev-pwn-2.md)

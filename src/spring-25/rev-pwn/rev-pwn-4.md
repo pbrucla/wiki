@@ -17,5 +17,6 @@ A set of challenges with increasing difficulty are deployed to [platform.acmcybe
 ## Resources
 - [Pwntools Tutorial](https://github.com/Gallopsled/pwntools-tutorial)
 - [Pwntools Documentation](https://docs.pwntools.com/en/latest/)
+- [Z3 Tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
 

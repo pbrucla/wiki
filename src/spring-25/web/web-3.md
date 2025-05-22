@@ -1,4 +1,4 @@
-# Web 8: SQL Injection
+# Web 3: SQL Injection
 
 by Renuka Bhusari and Ronak Badhe
 

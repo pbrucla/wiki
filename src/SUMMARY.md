@@ -60,6 +60,7 @@
     - [1: Intro to Reverse Engineering](spring-25/rev-pwn/rev-pwn-1.md)
     - [2: Intro to Assembly](spring-25/rev-pwn/rev-pwn-2.md)
     - [3: GDB](spring-25/rev-pwn/rev-pwn-3.md)
+    - [4: Z3 and Pwntools](spring-25/rev-pwn/rev-pwn-4.md)
   - [Web](spring-25/web/web-1.md)
     - [1: CSS Exfiltration Attack](spring-25/web/web-1.md)
     - [2: JWT](spring-25/web/web-2.md)

@@ -1,4 +1,4 @@
-# Web 5-6: JWT
+# Web 2: JWT
 
 ## What is a JWT?
 Jason Web Tokens (JWT) are method of user authentication. The server sends a signed JWT to the user's browser, which contains information like user privileges.
